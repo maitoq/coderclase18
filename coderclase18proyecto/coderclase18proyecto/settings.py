@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'AppCoder',
 ]
 
 MIDDLEWARE = [
@@ -54,7 +55,7 @@ ROOT_URLCONF = 'coderclase18proyecto.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/l0271969/OneDrive - Banco de Galicia Y Buenos Aires S.A/Martín/PY/Coder/clase18/coderclase18/coderclase18proyecto/plantillas/"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
