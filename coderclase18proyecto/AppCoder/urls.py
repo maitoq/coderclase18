@@ -3,7 +3,7 @@ from django.urls import path
 from AppCoder.views import *
 
 urlpatterns = [
-    path('familiares/', familiares),        
-    path('familiares2/', familiares2),        
+#    path('familiares/', familiares),        
+    path('familiarestemplate/', templatefamiliares),        
 
 ]

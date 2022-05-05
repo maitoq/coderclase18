@@ -16,7 +16,7 @@ Including another URLconf
 from xml.etree.ElementInclude import include
 from django.contrib import admin
 from django.urls import path, include
-from AppCoder.views import familiares
+#from AppCoder.views import familiares
 from coderclase18proyecto.views import *
 from coderclase18proyecto import views
 

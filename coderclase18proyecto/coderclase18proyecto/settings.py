@@ -55,7 +55,7 @@ ROOT_URLCONF = 'coderclase18proyecto.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["C:/Users/l0271969/OneDrive - Banco de Galicia Y Buenos Aires S.A/Martín/PY/Coder/clase18/coderclase18/coderclase18proyecto/plantillas/"],
+        'DIRS': ["C:/Users/l0271969/OneDrive - Banco de Galicia Y Buenos Aires S.A/Martín/PY/Coder/clase18/coderclase18/coderclase18proyecto/AppCoder/templates/AppCoder/"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
